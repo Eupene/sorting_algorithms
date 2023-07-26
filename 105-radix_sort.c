@@ -79,3 +79,4 @@ void counting_sortt(int *array, size_t size, int exp)
     free(count);
     free(output);
 }
+
